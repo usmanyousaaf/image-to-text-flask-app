@@ -22,7 +22,7 @@ A simple **Flask** application that allows users to upload images and extract te
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/image-to-text-flask-app.git
+git clone https://github.com/usmanyousaaf/image-to-text-flask-app.git
 cd image-to-text-flask-app
 ```
 
