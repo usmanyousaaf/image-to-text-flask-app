@@ -2,6 +2,10 @@
 
 A simple **Flask** application that allows users to upload images and extract text using Optical Character Recognition (**OCR**). This app is perfect for digitizing printed content, scanned documents, business cards, or any image-based text into machine-readable text.
 
+## Use this application:
+
+- https://huggingface.co/spaces/usmanyousaf/image-to-text
+
 ## Features
 
 - **Image Upload**: Users can easily upload images to extract text.
